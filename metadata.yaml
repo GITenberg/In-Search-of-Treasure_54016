@@ -1,0 +1,39 @@
+_repo: In-Search-of-Treasure_54016
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Putnam, Arthur Lee
+    - Preston, Charles F.
+    - Starr, Julian
+    - Jr., Horatio Alger
+    - Alger, Horatio
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_issued: '2017-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54016'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Islands of the Indian Ocean -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'India -- Juvenile fiction'
+- !lcsh 'Travel -- Juvenile fiction'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Treasure troves -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- GITenberg
+title: In Search of Treasure
+url: http://www.gutenberg.org/ebooks/54016
